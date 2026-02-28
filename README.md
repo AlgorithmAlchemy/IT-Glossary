@@ -1,6 +1,5 @@
 # IT Glossary (English)
 
-[English version](./README_en.md)
 
 A practical reference for beginners, interns, developers, and anyone working in the IT field. The glossary covers popular roles, technologies, terminology, slang, and business vocabulary.
 
